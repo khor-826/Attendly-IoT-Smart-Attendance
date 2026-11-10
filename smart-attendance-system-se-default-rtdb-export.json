@@ -1,0 +1,473 @@
+{
+  "attendance": {
+    "2026-02-25": {
+      "2206164C": {
+        "name": "Ali",
+        "status": "Present",
+        "time": "09:21:05"
+      },
+      "228F484C": {
+        "name": "Khor",
+        "status": "Present",
+        "time": "09:19:21"
+      },
+      "520CCC4B": {
+        "name": "Abu",
+        "status": "Present",
+        "time": "09:19:51"
+      },
+      "61DADD17": {
+        "name": "Afiq",
+        "status": "Present",
+        "time": "09:19:26"
+      },
+      "7219404C": {
+        "name": "Irfan",
+        "status": "Present",
+        "time": "09:19:09"
+      },
+      "A2FE434C": {
+        "name": "Shahir",
+        "status": "Present",
+        "time": "09:18:39"
+      },
+      "D223194C": {
+        "name": "Jordan",
+        "status": "Present",
+        "time": "09:19:44"
+      }
+    },
+    "2026-02-26": {
+      "228F484C": {
+        "name": "Khor",
+        "status": "Present",
+        "time": "10:28:32"
+      },
+      "520CCC4B": {
+        "name": "Abu",
+        "status": "Present",
+        "time": "10:28:44"
+      },
+      "61DADD17": {
+        "name": "Afiq",
+        "status": "Present",
+        "time": "10:27:38"
+      },
+      "7219404C": {
+        "name": "Irfan",
+        "status": "Present",
+        "time": "10:28:16"
+      },
+      "A2FE434C": {
+        "name": "Shahir",
+        "status": "Present",
+        "time": "10:27:28"
+      },
+      "D223194C": {
+        "name": "Jordan",
+        "status": "Present",
+        "time": "10:28:39"
+      }
+    },
+    "2026-02-27": {
+      "2206164C": {
+        "name": "Ali",
+        "status": "Present",
+        "time": "08:23:23"
+      },
+      "228F484C": {
+        "name": "Khor",
+        "status": "Present",
+        "time": "08:23:37"
+      },
+      "520CCC4B": {
+        "name": "Abu",
+        "status": "Present",
+        "time": "08:23:11"
+      },
+      "61DADD17": {
+        "name": "Afiq",
+        "status": "Present",
+        "time": "08:22:55"
+      },
+      "7219404C": {
+        "name": "Irfan",
+        "status": "Present",
+        "time": "08:23:42"
+      },
+      "A2FE434C": {
+        "name": "Shahir",
+        "status": "Present",
+        "time": "08:22:46"
+      },
+      "D223194C": {
+        "name": "Jordan",
+        "status": "Present",
+        "time": "08:23:31"
+      }
+    },
+    "2026-03-04": {
+      "2206164C": {
+        "name": "Ali",
+        "status": "Present",
+        "time": "09:28:56"
+      },
+      "228F484C": {
+        "name": "Khor",
+        "status": "Present",
+        "time": "09:29:22"
+      },
+      "520CCC4B": {
+        "name": "Abu",
+        "status": "Present",
+        "time": "09:28:50"
+      },
+      "61DADD17": {
+        "name": "Afiq",
+        "status": "Present",
+        "time": "09:28:32"
+      },
+      "7219404C": {
+        "name": "Irfan",
+        "status": "Present",
+        "time": "09:29:27"
+      },
+      "A2FE434C": {
+        "name": "Shahir",
+        "status": "Present",
+        "time": "09:28:45"
+      },
+      "D223194C": {
+        "name": "Jordan",
+        "status": "Present",
+        "time": "09:29:14"
+      }
+    },
+    "2026-03-05": {
+      "2206164C": {
+        "name": "Ali",
+        "status": "Present",
+        "time": "11:16:18"
+      },
+      "228F484C": {
+        "name": "Khor",
+        "status": "Present",
+        "time": "11:15:56"
+      },
+      "520CCC4B": {
+        "name": "Abu",
+        "status": "Present",
+        "time": "11:16:27"
+      },
+      "61DADD17": {
+        "name": "Afiq",
+        "status": "Present",
+        "time": "11:16:44"
+      },
+      "7219404C": {
+        "name": "Irfan",
+        "status": "Present",
+        "time": "11:16:33"
+      },
+      "A2FE434C": {
+        "name": "Shahir",
+        "status": "Present",
+        "time": "11:14:33"
+      },
+      "D223194C": {
+        "name": "Jordan",
+        "status": "Present",
+        "time": "11:16:07"
+      }
+    },
+    "2026-03-06": {
+      "2206164C": {
+        "name": "Ali",
+        "status": "Present",
+        "time": "09:11:44"
+      },
+      "228F484C": {
+        "name": "Khor",
+        "status": "Present",
+        "time": "09:09:29"
+      },
+      "520CCC4B": {
+        "name": "Abu",
+        "status": "Present",
+        "time": "09:08:29"
+      },
+      "61DADD17": {
+        "name": "Afiq",
+        "status": "Present",
+        "time": "09:10:47"
+      },
+      "7219404C": {
+        "name": "Irfan",
+        "status": "Present",
+        "time": "09:09:50"
+      },
+      "A2FE434C": {
+        "name": "Shahir",
+        "status": "Present",
+        "time": "09:27:40"
+      },
+      "D223194C": {
+        "name": "Jordan",
+        "status": "Present",
+        "time": "09:09:12"
+      }
+    },
+    "2026-03-11": {
+      "2206164C": {
+        "name": "Ali",
+        "status": "Present",
+        "time": "08:55:32"
+      },
+      "520CCC4B": {
+        "name": "Abu",
+        "status": "Present",
+        "time": "08:55:43"
+      },
+      "61DADD17": {
+        "name": "Afiq",
+        "status": "Present",
+        "time": "08:43:41"
+      },
+      "D223194C": {
+        "name": "Jordan",
+        "status": "Present",
+        "time": "08:54:50"
+      }
+    },
+    "2026-03-12": {
+      "2206164C": {
+        "name": "Ali",
+        "status": "Present",
+        "time": "10:45:15"
+      },
+      "228F484C": {
+        "name": "Khor",
+        "status": "Present",
+        "time": "10:45:04"
+      },
+      "520CCC4B": {
+        "name": "Abu",
+        "status": "Present",
+        "time": "10:45:20"
+      },
+      "61DADD17": {
+        "name": "Afiq",
+        "status": "Present",
+        "time": "10:45:09"
+      },
+      "7219404C": {
+        "name": "Irfan",
+        "status": "Present",
+        "time": "10:44:53"
+      },
+      "A2FE434C": {
+        "name": "Shahir",
+        "status": "Present",
+        "time": "10:44:37"
+      },
+      "D223194C": {
+        "name": "Jordan",
+        "status": "Present",
+        "time": "10:44:59"
+      }
+    },
+    "2026-04-01": {
+      "2206164C": {
+        "name": "Ali",
+        "status": "Present",
+        "time": "08:21:31"
+      },
+      "520CCC4B": {
+        "name": "Abu",
+        "status": "Present",
+        "time": "08:21:16"
+      },
+      "61DADD17": {
+        "name": "Afiq",
+        "status": "Present",
+        "time": "08:21:46"
+      },
+      "7219404C": {
+        "name": "Irfan",
+        "status": "Present",
+        "time": "08:59:40"
+      },
+      "A2FE434C": {
+        "name": "Shahir",
+        "status": "Present",
+        "time": "08:22:14"
+      },
+      "D223194C": {
+        "name": "Jordan",
+        "status": "Present",
+        "time": "08:22:02"
+      }
+    },
+    "2026-04-02": {
+      "2206164C": {
+        "name": "Ali",
+        "status": "Present",
+        "time": "10:16:32"
+      },
+      "A2FE434C": {
+        "name": "Shahir",
+        "status": "Present",
+        "time": "10:17:57"
+      }
+    },
+    "2026-04-03": {
+      "2206164C": {
+        "name": "Ali",
+        "status": "Present",
+        "time": "09:20:00"
+      },
+      "228F484C": {
+        "name": "Khor",
+        "status": "Present",
+        "time": "09:20:41"
+      },
+      "520CCC4B": {
+        "name": "Abu",
+        "status": "Present",
+        "time": "09:20:29"
+      },
+      "61DADD17": {
+        "name": "Afiq",
+        "status": "Present",
+        "time": "09:20:13"
+      },
+      "7219404C": {
+        "name": "Irfan",
+        "status": "Present",
+        "time": "09:20:47"
+      },
+      "A2FE434C": {
+        "name": "Shahir",
+        "status": "Present",
+        "time": "09:20:54"
+      },
+      "D223194C": {
+        "name": "Jordan",
+        "status": "Present",
+        "time": "09:20:19"
+      }
+    },
+    "2026-04-10": {
+      "2206164C": {
+        "name": "Ali",
+        "status": "Present",
+        "time": "16:24:12"
+      },
+      "228F484C": {
+        "name": "Khor",
+        "status": "Present",
+        "time": "16:24:33"
+      },
+      "520CCC4B": {
+        "name": "Abu",
+        "status": "Present",
+        "time": "16:24:07"
+      },
+      "61DADD17": {
+        "name": "Afiq",
+        "status": "Present",
+        "time": "16:24:02"
+      },
+      "7219404C": {
+        "name": "Irfan",
+        "status": "Present",
+        "time": "16:23:54"
+      },
+      "A2FE434C": {
+        "name": "Shahir",
+        "status": "Present",
+        "time": "16:24:17"
+      },
+      "D223194C": {
+        "name": "Jordan",
+        "status": "Present",
+        "time": "16:24:40"
+      }
+    }
+  },
+  "classStart": {
+    "2026-02-25": {
+      "startTime": "09:17:46"
+    },
+    "2026-02-26": {
+      "startTime": "10:23:48"
+    },
+    "2026-02-27": {
+      "startTime": "08:18:46"
+    },
+    "2026-03-04": {
+      "startTime": "09:24:21"
+    },
+    "2026-03-05": {
+      "startTime": "11:06:26"
+    },
+    "2026-03-06": {
+      "startTime": "08:57:24"
+    },
+    "2026-03-11": {
+      "startTime": "08:15:45"
+    },
+    "2026-03-12": {
+      "startTime": "10:44:05"
+    },
+    "2026-04-01": {
+      "startTime": "08:20:17"
+    },
+    "2026-04-02": {
+      "startTime": "10:11:32"
+    },
+    "2026-04-03": {
+      "startTime": "09:14:28"
+    },
+    "2026-04-10": {
+      "startTime": "15:37:02"
+    }
+  },
+  "students": {
+    "2206164C": {
+      "email": "ali09@gmail.com",
+      "name": "Ali",
+      "telegramid": 1891837161
+    },
+    "228F484C": {
+      "email": "khor2608@gmail.com",
+      "name": "Khor",
+      "telegramid": "1891742246"
+    },
+    "520CCC4B": {
+      "email": "buu12@gmail.com",
+      "name": "Abu",
+      "telegramid": 1273819312
+    },
+    "61DADD17": {
+      "email": "afiq88@gmail.com",
+      "name": "Afiq",
+      "telegramid": "1147274278"
+    },
+    "7219404C": {
+      "email": "m-8851398@moe-dl.edu.my",
+      "name": "Irfan",
+      "telegramid": 7780299740
+    },
+    "A2FE434C": {
+      "email": "shahir1121@gmail.com",
+      "name": "Shahir",
+      "telegramid": 1349435692
+    },
+    "D223194C": {
+      "email": "jordan112@gmail.com",
+      "name": "Jordan",
+      "telegramid": 1289175622
+    }
+  }
+}
